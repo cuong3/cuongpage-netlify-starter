@@ -15,7 +15,7 @@ const PublicationYear = styled.h2`
 function PublicationList() {
   return (
     <Publications>
-      <h2>Publications</h2>
+      <h2 id="navigation-publications">Publications</h2>
       <PublicationYear>2023</PublicationYear>
       <PublicationItem
         imageUrl="/papers/papertoplace.jpeg"
@@ -35,8 +35,7 @@ function PublicationList() {
       />
       <PublicationItem
         imageUrl="/papers/posevec.jpeg"
-        title="PoseVEC: Authoring Adaptive Pose-aware Effects Using Visual Programming and Demonstra-
-        tions"
+        title="PoseVEC: Authoring Adaptive Pose-aware Effects Using Visual Programming and Demonstrations"
         authors="Yongqi Zhang, Cuong Nguyen, Rubaiat Habib Kazi, Lap-Fai Yu"
         conference="In Proceedings of UIST 2023"
         link="https://yqz530.github.io/arlens.html"

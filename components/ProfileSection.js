@@ -28,7 +28,7 @@ const Subheading = styled.h2`
 `;
 
 const BioText = styled.p`
-  font-size: 1.4rem;
+  font-size: 1.25rem;
   line-height: 1.6;
 `;
 

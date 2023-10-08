@@ -9,7 +9,7 @@ const Nav = styled.nav`
 
 const NavLink = styled.a`
   font-size: 1.3rem;  /* Increase the font-size here */
-  color: #8C92AC;
+  color: #FFFFFF;
   text-decoration: none;
   transition: color 0.3s ease;
   &:hover {
@@ -22,6 +22,9 @@ function Navigation() {
     <Nav>
       <Link href="/" passHref>
         <NavLink>Home</NavLink>
+      </Link>
+      <Link href="/#navigation-publications" passHref>
+        <NavLink>Publications</NavLink>
       </Link>
       <Link href="/updates" passHref>
         <NavLink>Updates</NavLink>

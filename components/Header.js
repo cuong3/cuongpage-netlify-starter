@@ -5,7 +5,7 @@ const HeaderWrapper = styled.header`
   display: flex;
   align-items: center;
   padding: 1rem 5%;
-  background: #333;
+  background: #2AAA8A;
 `;
 
 function Header() {
