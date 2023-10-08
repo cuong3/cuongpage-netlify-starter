@@ -8,7 +8,7 @@ const Intro = styled.section`
 `;
 
 const ProfileImage = styled.img`
-  max-width: 25%;
+  max-width: 22%;
   border-radius: 50%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 `;
