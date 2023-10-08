@@ -30,7 +30,7 @@ function PublicationList() {
         title="GestureCanvas: Prototyping Compound Freehand Interaction in VR through Programming by
         Demonstration"
         authors="Anika Sayara, Emily Lynn Chen, Cuong Nguyen, Robert Xiao, Dongwook Yoon"
-        conference=""
+        conference="In Proceedings of UIST 2023"
         link=""
       />
       <PublicationItem
