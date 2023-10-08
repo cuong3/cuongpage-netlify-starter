@@ -11,7 +11,7 @@ const PublicationInfo = styled.div`
 `;
 
 const PublicationTitle = styled.a`
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: #0070f3;
   text-decoration: none;
   transition: color 0.3s ease;
@@ -21,13 +21,13 @@ const PublicationTitle = styled.a`
 `;
 
 const Authors = styled.p`
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #666;
   margin: 0.5rem 0;
 `;
 
 const Conference = styled.p`
-  font-size: 0.9rem;
+  font-size: 1.0rem;
   font-style: italic;
   color: #444;
 `;

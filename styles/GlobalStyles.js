@@ -4,7 +4,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
-    font-size: 16px;
+    font-size: 20px;
     background: #f4f4f4;
     color: #333;
     line-height: 1.5;
