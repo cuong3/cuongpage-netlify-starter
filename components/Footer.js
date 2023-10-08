@@ -1,11 +1,18 @@
-import styles from './Footer.module.css'
+import styled from 'styled-components';
 
-export default function Footer() {
+const FooterWrapper = styled.footer`
+  padding: 1rem 5%;
+  background: #222;
+  color: white;
+  text-align: center;
+`;
+
+function Footer() {
   return (
-    <>
-      <footer className={styles.footer}>
-        <img src="/logo-netlify.svg" alt="Netlify Logo" className={styles.logo} />
-      </footer>
-    </>
-  )
+    <FooterWrapper>
+      <p>&copy; 2023 Cuong Nguyen. All rights reserved.</p>
+    </FooterWrapper>
+  );
 }
+
+export default Footer;
