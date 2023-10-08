@@ -22,7 +22,7 @@ function PublicationList() {
         title="PaperToPlace: Transforming Instruction Documents into Spatialized and Context-Aware Mixed
         Reality Experiences"
         authors="Chen Chen, Cuong Nguyen, Jane Hoffswell, Jennifer Healey, Trung Bui, Nadir Weibel"
-        conference="n Proceedings of UIST 2023"
+        conference="In Proceedings of UIST 2023"
         link="https://arxiv.org/abs/2308.13924v1"
       />
       <PublicationItem
