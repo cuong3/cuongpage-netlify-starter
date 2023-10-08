@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   a {
-    color: inherit;
+    color: #189ad3;
     text-decoration: none;
   }
 `;

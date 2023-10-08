@@ -12,7 +12,7 @@ const PublicationInfo = styled.div`
 
 const PublicationTitle = styled.a`
   font-size: 1.4rem;
-  color: #0070f3;
+  color: #inherit; // defined in a tag in GlobalStyles.css
   text-decoration: none;
   transition: color 0.3s ease;
   &:hover {
