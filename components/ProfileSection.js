@@ -45,7 +45,7 @@ function ProfileSection() {
         <a href="n.cuongg@gmail.com" target="_blank"><img src="/iconemail.png" alt="Email" height="32" /> </a>
       </Subheading>
       <BioText>
-        I’m a research scientist at <a href='https://research.adobe.com/person/cuong-nguyen/' target="_blank">Adobe Research</a>, San Francisco, California.  My research lies at the intersection of Human-Computer Interaction (HCI) and various creative domains such as virtual and augmented reality (VR/AR), video editing, and 3D design.
+        I’m a senior research scientist at <a href='https://research.adobe.com/person/cuong-nguyen/' target="_blank">Adobe Research</a>, San Francisco, California.  My research lies at the intersection of Human-Computer Interaction (HCI) and various creative domains such as virtual and augmented reality (VR/AR), video editing, and 3D design.
       </BioText>
       <BioText>
         The core theme in my work is to understand how we can leverage the power of immersive and AI technologies to help people create and collaborate more effectively. I enjoy building delightful authoring experiences driven by machine learning and computer vision, and studying how these technologies can be used to augment human creativity.

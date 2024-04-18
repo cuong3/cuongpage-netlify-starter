@@ -23,6 +23,12 @@ function Updates() {
       <UpdateSection>
 
       <UpdateTexts>
+      <b>2024</b><br/>
+      - Serving as AC for ACM UIST 2024.<br/>
+      - Attending CHI 2024 (Honolulu) and UIST 2024 (Pittsburgh). Feel free to say hi! 👋<br/>
+      </UpdateTexts>
+
+      <UpdateTexts>
       <b>2023</b><br/>
       - Published 7 new papers. Started exploring new research related to content-aware motion graphics authoring and using LLM to empower VR/AR authoring.<br/>
       - Shipped face-aware video captioning to Adobe Express <a href='https://www.adobe.com/express/feature/video/add-caption' target='_blank'>https://www.adobe.com/express/feature/video/add-caption</a>.
