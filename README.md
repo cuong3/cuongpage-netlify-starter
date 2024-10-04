@@ -1,6 +1,7 @@
 # Notes
 
 publications --> PublicationList.js
+** add thumbnails to ./public/papers/ (width = 200 is best)
 
 Bio and profile --> ProfileSection.js
 

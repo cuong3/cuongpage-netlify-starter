@@ -51,7 +51,10 @@ function ProfileSection() {
         The core theme in my work is to understand how we can leverage the power of immersive and AI technologies to help people create and collaborate more effectively. I enjoy building delightful authoring experiences driven by machine learning and computer vision, and studying how these technologies can be used to augment human creativity.
       </BioText>
       <BioText>
-        I received my PhD in Computer Science in 2017. I was advised by Professor <a href='http://web.cecs.pdx.edu/~fliu/' target='_blank'>Feng Liu</a> in the Computer Graphics & Vision Lab at Portland State University. My research has received Best Paper Honorable Mention awards at ACM CHI 2013, 2015, and 2017. Some of these work were shown at Adobe MAX Sneaks <a href='https://www.youtube.com/watch?v=tFkJXwH1VTE' target="_blank">2017</a> and <a href='https://www.youtube.com/watch?v=5QsvjrbKeI4' target='_blank'>2019</a>. My PhD’s dissertation explores 360 degree video authoring tools in VR. I helped ship some parts of this work into <a href='https://helpx.adobe.com/premiere-pro/using/immersive-video.html' target='_blank'>Adobe Premiere and After Effects</a>.
+        I received my PhD in Computer Science in 2017. I was advised by Professor <a href='http://web.cecs.pdx.edu/~fliu/' target='_blank'>Feng Liu</a> in the Computer Graphics & Vision Lab at Portland State University. My research has received Best Paper Honorable Mention awards at ACM CHI 2013, 2015, and 2017. Some of these work were shown at Adobe MAX Sneaks <a href='https://www.youtube.com/watch?v=tFkJXwH1VTE' target="_blank">2017</a> and <a href='https://www.youtube.com/watch?v=5QsvjrbKeI4' target='_blank'>2019</a>. My PhD’s <a href='https://www.proquest.com/openview/ffc11a9f354217f1cca8dbc4ec6dc9a2/1?pq-origsite=gscholar&cbl=18750' target='_blank'>dissertation</a> explores 360 degree video authoring tools in VR.
+      </BioText>
+      <BioText>
+        I was born and raised in Ho Chi Minh city, Vietnam 🇻🇳. I live in San Francisco now with my wife and kiddos. Outside of work, I train in powerlifting and enjoy practicing real-estate investing.
       </BioText>
     </Bio>
   </Intro>
