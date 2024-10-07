@@ -19,7 +19,7 @@ function PublicationList() {
       <h2 id="navigation-publications">Tech Transfer</h2>
       <div>Some of my research has contributed to the following products. I enjoy working closely with product partners in both the discovery and development phases. I find it rewarding to see how research can be translated into real-world products that impact millions of users.
       </div><br></br>
-      <div>2024. <a href='' target='_blank'>Auto animate design documents.</a> (Adobe Express).</div>
+      <div>2024. <a href='https://helpx.adobe.com/express/add-effects-to-your-designs/add-animations/animate-design.html' target='_blank'>Animate All: Auto animate design documents.</a> (Adobe Express).</div>
       <div>2023. <a href='https://www.adobe.com/express/feature/video/add-caption' target='_blank'>Face-aware video captioning.</a> (Adobe Express).</div>
       <div>2018. <a href='https://helpx.adobe.com/premiere-pro/using/immersive-video.html' target='_blank'>360 video editing in VR.</a> (Adobe Premiere and After Effects).</div>
 
