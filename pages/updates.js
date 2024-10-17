@@ -26,6 +26,8 @@ function Updates() {
       <b>2024</b><br/>
       - Serving as AC for ACM UIST 2024.<br/>
       - Attending CHI 2024 (Honolulu) and UIST 2024 (Pittsburgh). Feel free to say hi! 👋<br/>
+      - Shipped <a href='https://helpx.adobe.com/express/add-effects-to-your-designs/add-animations/animate-design.html' target='_blank'>Animate All</a> in Adobe Express. I led the research tech transfer and developed the AI-driven animation component behind this feature. Joel McHale highlighted this feature in this  <a href='https://www.instagram.com/reel/DBKTxtUMNQN' target='_blank'>Instagram reel</a>. <br/>
+      - The text-to-3D-view interaction we invented in our MemoVis UIST paper contributed to this Adobe MAX Sneaks called ProjectScenic. <a href='https://youtu.be/UpL0Itg6tfg?t=222' target='_blank'>Demo starts at 3:42</a>.<br/>
       </UpdateTexts>
 
       <UpdateTexts>
