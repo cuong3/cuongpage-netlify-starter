@@ -17,11 +17,15 @@ function PublicationList() {
   return (
     <Publications>
       <h2 id="navigation-publications">Tech Transfer</h2>
-      <div>Some of my research has contributed to the following products. I enjoy working closely with product partners in both the discovery and development phases. I find it rewarding to see how research can be translated into real-world products that impact millions of users.
+      <div>Some of my research has contributed to the following product features. I enjoy working closely with product teams to address unique customer problems, explore untapped data opportunities, and drive AI/HCI technology transfer. I find it deeply rewarding to see research translated into real-world products that impact millions of users.
       </div><br></br>
-      <div>2024. <a href='https://helpx.adobe.com/express/add-effects-to-your-designs/add-animations/animate-design.html' target='_blank'>Animate All: Auto animate design documents.</a> (Adobe Express).</div>
-      <div>2023. <a href='https://www.adobe.com/express/feature/video/add-caption' target='_blank'>Face-aware video captioning.</a> (Adobe Express).</div>
-      <div>2018. <a href='https://helpx.adobe.com/premiere-pro/using/immersive-video.html' target='_blank'>360 video editing in VR.</a> (Adobe Premiere and After Effects).</div>
+      <div>2024. Animate All: Auto animate design documents. (Adobe Express, <a href='https://research.adobe.com/news/ai-and-human-touch-in-adobe-express-animate-all/' target='_blank'>article</a>, <a href='https://helpx.adobe.com/express/add-effects-to-your-designs/add-animations/animate-design.html' target='_blank'>feature</a>).
+      </div>
+
+      <div>2023. Face-aware video captioning. (Adobe Express, <a href='https://research.adobe.com/news/content-aware-video-captioning-in-adobe-express/' target='_blank'>article</a>, <a href='https://www.adobe.com/express/feature/video/add-caption' target='_blank'>feature</a>).</div>
+
+      <div>2018. 360 video editing in VR. (Adobe Premiere and After Effects, <a href='https://helpx.adobe.com/premiere-pro/using/immersive-video.html' target='_blank'>feature</a>).</div>
+
 
 
       <h2 id="navigation-publications">Publications</h2>

@@ -18,6 +18,11 @@ npm install
 npm run dev
 
 ## deploy on Netlify
+Commit changes
+https://github.com/cuong3/cuongpage-netlify-starter 
+Go to Netiffy https://app.netlify.com/sites/cuongnguyenhci/overview
+Login with github
+Deploy --> trigger deploy --> Deploy site
 
 
 # Next + Netlify Starter

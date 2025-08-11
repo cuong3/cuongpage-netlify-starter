@@ -21,6 +21,13 @@ function Updates() {
     <Layout>
       <h1>Updates</h1>
       <UpdateSection>
+        
+      <UpdateTexts>
+      <b>2025</b><br/>
+      - I'll be giving a talk of my recent research on motion graphics at Stanford University in November, 2025. Details - coming soon!<br/>
+      - Gave a talk titled <i>"Computational text-based interactions for spatial creativity"</i> at New York University (April 2025).
+      </UpdateTexts>
+
 
       <UpdateTexts>
       <b>2024</b><br/>
