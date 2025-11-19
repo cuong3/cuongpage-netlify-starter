@@ -21,10 +21,11 @@ function Updates() {
     <Layout>
       <h1>Updates</h1>
       <UpdateSection>
-        
+
       <UpdateTexts>
       <b>2025</b><br/>
-      - I'll be giving a talk of my recent research on motion graphics at Stanford University in November, 2025. Details - coming soon!<br/>
+      - The VR video editing research and tech transfer I did back in 2017-2018 had been awarded the <b>Technology & Egnineering Emmy Award</b> in 2025.<br/>
+      - Gave a talk titled <i>"Building GenAI-Powered Tools for Editable Visual Effects"</i> at <a href="https://hci.stanford.edu/courses/cs547/speaker.php?date=2025-11-14" target="_blank">Stanford University's HCI Seminar Series</a> (November 2025).<br/>
       - Gave a talk titled <i>"Computational text-based interactions for spatial creativity"</i> at New York University (April 2025).
       </UpdateTexts>
 

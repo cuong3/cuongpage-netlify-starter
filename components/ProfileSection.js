@@ -46,13 +46,13 @@ function ProfileSection() {
       </Subheading>
       <BioText>
         I’m a senior research scientist at <a href='https://research.adobe.com/person/cuong-nguyen/' target="_blank">Adobe Research</a>, San Francisco, California.  My research sits at the intersection of Human-Computer Interaction (HCI) and creativity. I study creative practices in domains such as motion graphics, VR/AR, and video, and invent novel AI-powered authoring experiences.
-      </BioText>
-
-      <BioText>
         I am particularly interested in augmenting human creativity using frontier models. I seek to apply HCI principles to harness the generative power and rich prior knowledge of these models to build useful, reliable, and intelligent creative assistants. Currently, I am exploring how to steer VLM models for motion graphics authoring and how to develop automated quality validation pipelines. Previously, I focused on creating rapid ideation interfaces for VR/AR.
       </BioText>
       <BioText>
-        I received my PhD in Computer Science in 2017. I was advised by Professor <a href='http://web.cecs.pdx.edu/~fliu/' target='_blank'>Feng Liu</a> in the Computer Graphics & Vision Lab at Portland State University. My research has received Best Paper Honorable Mention awards at ACM CHI 2013, 2015, and 2017. My work were shown in Adobe MAX Sneaks <a href='https://www.youtube.com/watch?v=tFkJXwH1VTE' target="_blank"> CloverVR (2017)</a>, <a href='https://www.youtube.com/watch?v=5QsvjrbKeI4' target='_blank'> Pronto (2019)</a>, and <a href='https://youtu.be/UpL0Itg6tfg?t=222' target='_blank'> Scenic (2024)</a>. My PhD’s <a href='https://www.proquest.com/openview/ffc11a9f354217f1cca8dbc4ec6dc9a2/1?pq-origsite=gscholar&cbl=18750' target='_blank'>dissertation</a> explores 360 degree video authoring tools in VR.
+        I received my PhD in Computer Science in 2017. I was advised by Professor <a href='http://web.cecs.pdx.edu/~fliu/' target='_blank'>Feng Liu</a> in the Computer Graphics & Vision Lab at Portland State University. My research has received Best Paper Honorable Mention awards at ACM CHI 2013, 2015, and 2017. My work were shown in Adobe MAX Sneaks <a href='https://www.youtube.com/watch?v=tFkJXwH1VTE' target="_blank"> CloverVR (2017)</a>, <a href='https://www.youtube.com/watch?v=5QsvjrbKeI4' target='_blank'> Pronto (2019)</a>, and <a href='https://youtu.be/UpL0Itg6tfg?t=222' target='_blank'> Scenic (2024)</a>.
+      </BioText>
+      <BioText>
+        My PhD’s <a href='https://www.proquest.com/openview/ffc11a9f354217f1cca8dbc4ec6dc9a2/1?pq-origsite=gscholar&cbl=18750' target='_blank'>dissertation</a> explores 360 degree video authoring tools in VR. This research led to a successful technology transfer to Adobe’s Premiere Pro team, which ultimately earned a <b>Technology & Engineering Emmy Award</b> in 2025.
       </BioText>
       <BioText>
         I was born and raised in Ho Chi Minh city, Vietnam 🇻🇳. I live in San Francisco now with my wife and kiddos. I love sports and fitness. I trained in powerlifting for a couple years. My best PR at deadlift is 415 lbs and I'm very proud of it. I've recently shifted to Olympic lifting and learning a lot. Always happy to chat about these topics!

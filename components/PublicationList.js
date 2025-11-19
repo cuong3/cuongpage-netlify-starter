@@ -41,6 +41,9 @@ function PublicationList() {
 
   // Define all publications with tags
   const publications = [
+    // 2025
+    { year: 2025, imageUrl: "/papers/sweeperbot.jpeg", title: "SweeperBot: Making 3D Browsing Accessible through View Analysis and Visual Question Answering", authors: "Chen Chen, Cuong Nguyen, Alexa Siu, Dingzeyu Li, Nadir Weibel", conference: "International Journal of Human-Computer Interaction (2025).", link: "https://arxiv.org/abs/2511.14567", tags: ["3D"] },
+
     // 2024
     { year: 2024, imageUrl: "/papers/memovis.jpeg", title: "MemoVis: A GenAI-Powered Tool for Creating Companion Reference Images for 3D Design Feedback", authors: "Chen Chen, Cuong Nguyen, Thibault Groueix, Vladimir G. Kim, Nadir Weibel", conference: "ACM TOCHI. Presented at UIST 2024.", link: "https://doi.org/10.1145/3694681", tags: ["3D"] },
 
@@ -79,7 +82,7 @@ function PublicationList() {
     { year: 2015, imageUrl: "/papers/tutordmvnicon_small.png", title: "Making Software Tutorial Video Responsive", authors: "Cuong Nguyen, Feng Liu", conference: "In ACM CHI, 2015 🏆 (best paper honorable mention award)", link: "http://web.cecs.pdx.edu/~fliu/project/tutorDMVN/", tags: ["video"] },
     { year: 2014, imageUrl: "/papers/hotspot.jpg", title: "Hotspot: Making Computer Vision More Effective for Human Video Surveillance", authors: "Cuong Nguyen, Wu-chi Feng, Feng Liu", conference: "Information Visualization", link: "http://web.cecs.pdx.edu/~fliu/project/hotspot/", tags: ["video"] },
     { year: 2014, imageUrl: "/papers/dmvntouch.png", title: "Direct Manipulation Video Navigation on Touch Screens", authors: "Cuong Nguyen, Yuzhen Niu, Feng Liu", conference: "In ACM MobileHCI, 2014", link: "http://web.cecs.pdx.edu/~fliu/project/TouchDMVN", tags: ["video"] },
-    { year: 2013, imageUrl: "/papers/dmvn3d.jpg", title: "Direct Manipulation Video Navigation in 3D", authors: "Cuong Nguyen, Yuzhen Niu, Feng Liu", conference: "In ACM CHI, 2013 🏆 (best paper honorable mention award)", link: "http://web.cecs.pdx.edu/~fliu/project/3DDMVN", tags: ["video"] },
+    { year: 2013, imageUrl: "/papers/dmvn3d.jpg", title: "Direct Manipulation Video Navigation in 3D", authors: "Cuong Nguyen, Yuzhen Niu, Feng Liu", conference: "In ACM CHI, 2013 🏆 (best paper honorable mention award)", link: "http://web.cecs.pdx.edu/~fliu/project/3DDMVN", tags: ["video", "3D"] },
     { year: 2012, imageUrl: "/papers/summagator.jpg", title: "Video Summagator: An Interface for Video Summarization and Navigation", authors: "Cuong Nguyen, Yuzhen Niu, Feng Liu", conference: "In ACM CHI, 2012", link: "http://web.cecs.pdx.edu/~fliu/project/summagator", tags: ["video", "3D"] },
   ];
 
