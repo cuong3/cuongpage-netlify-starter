@@ -41,6 +41,11 @@ function PublicationList() {
 
   // Define all publications with tags
   const publications = [
+    // 2026
+    { year: 2026, imageUrl: "/papers/visuallyric.jpeg", title: "Visual Lyrics: Generating Animated Text for Music Lyric Videos with an Augmented Text Editor", authors: "David Chuan-En Lin, Cuong Nguyen, Hijung Valentina Shin, Nikolas Martelaro", conference: "ACM IUI 2026.", link: "https://www.davidlin.io/visuallyrics", tags: ["motion graphics", "video"] },
+
+    { year: 2026, imageUrl: "/papers/depthscape.jpeg", title: "DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction", authors: "Xia Su, Cuong Nguyen, Matheus A. Gadelha, Jon E. Froehlich", conference: "arXiv.", link: "https://arxiv.org/abs/2512.02263", tags: ["motion graphics"] },
+
     // 2025
     { year: 2025, imageUrl: "/papers/sweeperbot.jpeg", title: "SweeperBot: Making 3D Browsing Accessible through View Analysis and Visual Question Answering", authors: "Chen Chen, Cuong Nguyen, Alexa Siu, Dingzeyu Li, Nadir Weibel", conference: "International Journal of Human-Computer Interaction (2025).", link: "https://arxiv.org/abs/2511.14567", tags: ["3D"] },
 
