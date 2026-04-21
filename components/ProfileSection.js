@@ -39,7 +39,7 @@ function ProfileSection() {
     <Bio>
       <Heading>Hello! I'm Cuong 👋</Heading>
       <Subheading>
-        <a href="/CV_9_2023.pdf" target="_blank"><img src="/iconcv.png" alt="CV" height="32" /> </a>
+        <a href="/CV_4_2026.pdf" target="_blank"><img src="/iconcv.png" alt="CV" height="32" /> </a>
         <a href="https://twitter.com/gnouc_" target="_blank"><img src="/icontwitter.png" alt="Twitter" height="32" /> </a>
         <a href="https://www.linkedin.com/in/cuongnguyenduy/" target="_blank"><img src="/iconlinkedin.png" alt="LinkedIn" height="32" /> </a>
         <a href="n.cuongg@gmail.com" target="_blank"><img src="/iconemail.png" alt="Email" height="32" /> </a>

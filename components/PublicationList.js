@@ -21,9 +21,9 @@ const FilterNav = styled.nav`
 `;
 
 const FilterButton = styled.button`
-  background: ${props => props.active ? '#0066cc' : 'transparent'};
-  color: ${props => props.active ? 'white' : '#333'};
-  border: 1px solid ${props => props.active ? '#0066cc' : '#ccc'};
+  background: ${props => props.$active ? '#0066cc' : 'transparent'};
+  color: ${props => props.$active ? 'white' : '#333'};
+  border: 1px solid ${props => props.$active ? '#0066cc' : '#ccc'};
   padding: 0.5rem 1rem;
   border-radius: 20px;
   cursor: pointer;
@@ -31,8 +31,8 @@ const FilterButton = styled.button`
   transition: all 0.2s ease;
 
   &:hover {
-    background: ${props => props.active ? '#0052a3' : '#f0f0f0'};
-    border-color: ${props => props.active ? '#0052a3' : '#999'};
+    background: ${props => props.$active ? '#0052a3' : '#f0f0f0'};
+    border-color: ${props => props.$active ? '#0052a3' : '#999'};
   }
 `;
 
@@ -43,8 +43,10 @@ function PublicationList() {
   const publications = [
     // 2026
     { year: 2026, imageUrl: "/papers/visuallyric.jpeg", title: "Visual Lyrics: Generating Animated Text for Music Lyric Videos with an Augmented Text Editor", authors: "David Chuan-En Lin, Cuong Nguyen, Hijung Valentina Shin, Nikolas Martelaro", conference: "ACM IUI 2026.", link: "https://www.davidlin.io/visuallyrics", tags: ["motion graphics", "video"] },
+    
+    { year: 2026, imageUrl: "/papers/visuallyric.jpeg", title: "Visual Lyrics: Generating Animated Text for Music Lyric Videos with an Augmented Text Editor", authors: "David Chuan-En Lin, Cuong Nguyen, Hijung Valentina Shin, Nikolas Martelaro", conference: "ACM IUI 2026.", link: "https://www.davidlin.io/visuallyrics", tags: ["motion graphics", "video"] },
 
-    { year: 2026, imageUrl: "/papers/depthscape.jpeg", title: "DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction", authors: "Xia Su, Cuong Nguyen, Matheus A. Gadelha, Jon E. Froehlich", conference: "arXiv.", link: "https://arxiv.org/abs/2512.02263", tags: ["motion graphics"] },
+    { year: 2026, imageUrl: "/papers/depthscape.jpeg", title: "DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction", authors: "Xia Su, Cuong Nguyen, Matheus A. Gadelha, Jon E. Froehlich", conference: "ACM DIS 2026 (to appear).", link: "https://arxiv.org/abs/2512.02263", tags: ["motion graphics"] },
 
     // 2025
     { year: 2025, imageUrl: "/papers/sweeperbot.jpeg", title: "SweeperBot: Making 3D Browsing Accessible through View Analysis and Visual Question Answering", authors: "Chen Chen, Cuong Nguyen, Alexa Siu, Dingzeyu Li, Nadir Weibel", conference: "International Journal of Human-Computer Interaction (2025).", link: "https://arxiv.org/abs/2511.14567", tags: ["3D"] },
@@ -123,31 +125,31 @@ function PublicationList() {
 
       <FilterNav>
         <FilterButton
-          active={activeFilter === 'all'}
+          $active={activeFilter === 'all'}
           onClick={() => setActiveFilter('all')}
         >
           All
         </FilterButton>
         <FilterButton
-          active={activeFilter === 'motion graphics'}
+          $active={activeFilter === 'motion graphics'}
           onClick={() => setActiveFilter('motion graphics')}
         >
           Motion Graphics
         </FilterButton>
         <FilterButton
-          active={activeFilter === 'vr/ar'}
+          $active={activeFilter === 'vr/ar'}
           onClick={() => setActiveFilter('vr/ar')}
         >
           VR/AR
         </FilterButton>
         <FilterButton
-          active={activeFilter === '3D'}
+          $active={activeFilter === '3D'}
           onClick={() => setActiveFilter('3D')}
         >
           3D
         </FilterButton>
         <FilterButton
-          active={activeFilter === 'video'}
+          $active={activeFilter === 'video'}
           onClick={() => setActiveFilter('video')}
         >
           Video
